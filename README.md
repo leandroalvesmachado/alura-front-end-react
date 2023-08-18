@@ -15,3 +15,10 @@
     * [3. Como o React vê um componente](#)
     * [4. Criando funcionalidades](#)
     * [5. Finalizando o projeto](#)
+
+- [React com JavaScript: lidando com arquivos estáticos - 8h - Atualizado em 19/04/2023]
+    * [1. Explorando o projeto](#)
+    * [2. Avançando nos componentes](#)
+    * [3. Fontes e estilos](#)
+    * [4. Lidando com imagens](#)
+    * [5. Finalizando o projeto](#)
